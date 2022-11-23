@@ -6,20 +6,20 @@ permalink: /courses/
 
 # Courses and certifications
 
-Structuring Machine Learning Projects
+Structuring Machine Learning Projects  
 [Course certificate](certs/coursera-N5W8D27GFHDM.pdf)
 
-Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization  
 [Course certificate](certs/coursera-VETAJSK6WZFR.pdf)
 
-Neural Networks and Deep Learning
+Neural Networks and Deep Learning  
 [Course certificate](certs/coursera-FLKE69B28J49.pdf)
 
-Game Theory
-[Statement of Accomplishment](certs/2011-gt.pdf)
+Game Theory  
+[Statement of Accomplishment](certs/2012-gt.pdf)
 
-Machine Learning
+Machine Learning  
 [Statement of Accomplishment](certs/2011-ml.pdf)
 
-Introduction to Artificial Intelligence
+Introduction to Artificial Intelligence  
 [Statement of Accomplishment](certs/2011-ai.pdf)
